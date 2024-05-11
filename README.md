@@ -2,8 +2,9 @@
 - 👀 I’m interested in Dot Net Development
 - 🌱 I’m currently learning Vue.js and Web Scrapping.
 - 💞️ I’m looking to collaborate on Dot Net Projects.
-- 📫 How to reach me ..
-- 😄 Pronouns: ...
+- 📫 How to reach me
+-   Gmail:- muhammadyaseen2604@gmail.com
+- 😄 Pronouns: Him
 - ⚡ Fun fact: ...
 
 <!---
